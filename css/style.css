@@ -3,3 +3,7 @@ header {
     font-size: 40px;
     background-color: brown;
 }
+
+ul {
+    display: inline-block;
+}
