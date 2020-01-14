@@ -1,5 +1,5 @@
 header {
-    display: inline-block;
-    height: 40px;
+    display: inline;
+    font-size: 40px;
     background-color: brown;
 }
