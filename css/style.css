@@ -1,6 +1,6 @@
 body {margin: 0;}
 
-.topnav {
+ul.topnav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -24,11 +24,10 @@ ul.topnav li a {
   
   ul.topnav li a.active {background-color: #4CAF50;}
   
-  ul.topnav li.right {float: right;}
+  ul.topnav li.left {float: left;} /* */
   
   @media screen and (max-width: 600px) {
-    ul.topnav li.right, 
+    ul.topnav li.left, 
     ul.topnav li {float: none;}
   }
 
-  
