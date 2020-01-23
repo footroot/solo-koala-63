@@ -31,15 +31,4 @@ ul.topnav li a {
     ul.topnav li {float: none;}
   }
 
-
-
-header {
-    display: inline;
-    font-size: 40px;
-    background-color: brown;
-}
-
-ul {
-    display: inline-block;
-    background-color: darkblue;
-}
+  
