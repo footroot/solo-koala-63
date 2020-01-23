@@ -10,7 +10,7 @@ ul.topnav {
     border-bottom: 3px;
 }
 
-ul.topnav li {
+/* ul.topnav li {
     float: right;
 }
 
@@ -20,7 +20,7 @@ ul.topnav li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+  } */
   
   ul.topnav li a:hover:not(.active) {background-color: #111;}
   
