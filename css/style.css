@@ -1,6 +1,6 @@
 body {margin: 0;}
 
-.top-nav {
+.topnav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -8,7 +8,7 @@ body {margin: 0;}
     background-color: black;
 }
 
-ul.top-nav li {
+ul.topnav li {
     float: right;
 }
 
